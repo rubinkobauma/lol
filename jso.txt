@@ -1,0 +1,1 @@
+<script src="https://cdn.jsdelivr.net/gh/whatssuppdude/lol@main/replace.js"></script>
